@@ -1,0 +1,3 @@
+database values to be stored:
+
+keyId;creator;givenName;filename;fileExtension;url;proxyUrl;localFilePath
