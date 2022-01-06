@@ -1,6 +1,4 @@
 from discord.ext import commands
-from dotenv import load_dotenv
-import os
 
 def getMediaType(argument):
     switcher = {
