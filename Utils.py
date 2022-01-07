@@ -1,4 +1,3 @@
-from discord.ext import commands
 
 def getMediaType(argument):
     switcher = {
