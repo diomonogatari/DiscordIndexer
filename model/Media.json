@@ -1,6 +1,6 @@
 {
-    "_id":"",
-    "creator_id":"",
+    "_id":123,
+    "creator_id":123,
     "creator_name":"",
     "searchable_filename":"",
     "filename":"",
